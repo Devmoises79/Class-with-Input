@@ -46,7 +46,7 @@ print("=================================================================")
 # 💻 Example Output
 
 ```vbnet
-Copy code
+
 
 What's your name?
 Moisés
